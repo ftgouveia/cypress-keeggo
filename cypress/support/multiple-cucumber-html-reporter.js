@@ -17,7 +17,7 @@ report.generate({
   customData: {
     title: "Informações da Execução",
     data: [
-      { label: "Project", value: "Accessibility Project" },
+      { label: "Project", value: "Project" },
       { label: "Release", value: "1.0.0" },
       { label: "Data da Execução", value: `${Date.now()}` },
     ],
