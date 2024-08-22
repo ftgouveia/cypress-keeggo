@@ -40,3 +40,7 @@ The plugin will make the following changes:
 - The `.gitignore` file will be changed or included by adding the `cypress/reports/*` and `cypress/results/*` folders.
 
 All right, your plugin will be ready to use!
+
+## Run
+
+Run the command 'npx cypress open' or execute scripts from package.json to run in background.
