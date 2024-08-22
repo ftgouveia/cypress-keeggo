@@ -4,7 +4,7 @@
 
 Cypress.io is an end-to-end automated testing framework using JavaScript. Cypress aims to perform e2e accessibility testing.
 
-# Prerequisites for using cypress-axe-plugin
+# Prerequisites
 
 - Language: NodeJs > 16 and Npm > 8
 - Installation of Cypress 12.16.0
@@ -12,16 +12,6 @@ Cypress.io is an end-to-end automated testing framework using JavaScript. Cypres
 
 ## IMPORTANT
 If you have not made the necessary settings to run Cypress on your machine (first run and such), follow the procedure described below.
-
-### Mac Installation
-To install Cypress on your Mac, download version [12.16.0](https://download.cypress.io/desktop/12.16.0?platform=darwin&arch=x64) and run the app.
-Then, run the commands listed below in the directory where the Cypress installation plugin will be applied
-
-### Windows Installation
-To install Cypress on Windows, download version [12.16.0](https://download.cypress.io/desktop/12.16.0?platform=win&arch=x64) and run the app.
-Then, run the commands listed below in the directory where the Cypress installation plugin will be applied
-
-- **export NODE_TLS_REJECT_UNAUTHORIZED=0**
 
 After carrying out these installation processes, simply continue running the plugin.
 
